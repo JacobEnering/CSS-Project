@@ -30,3 +30,27 @@
   width:          100%;
   background:     cyan;
 }
+
+ul{
+  /* gets rid of circles */
+  list-style-type:none;
+  /* Get rid of extra space */
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* Color */
+}
+
+li{
+  /* Horizontal menu */
+  float:left;
+}
+
+li a{
+  Display: block;
+  color: #000000;
+  text-align: center;
+  padding-right: 14px;
+  padding-left: 14px;
+  text-decoration: none;
+}
