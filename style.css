@@ -17,18 +17,21 @@
 }
 #ad{
   float:          left;
-  width:          20%;
+  width:          18%;
   background:     green;
+  padding:        20px;
 }
 #content{
   float:          left;
-  width:          80%;
+  width:          75%;
   background:     orange;
+  padding:        20px;
 }
 #blueplace{
   clear:          both;
-  width:          100%;
+  width:          97%;
   background:     cyan;
+  padding:        16px;
 }
 
 ul{
