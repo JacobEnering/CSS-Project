@@ -8,6 +8,7 @@
   float:          left;
   background:     green;
   text-align:     center;
+  background-image: url("");
 }
 #navbar{
   width:          100%;
