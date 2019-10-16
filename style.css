@@ -4,11 +4,11 @@
 }
 #header{
   width:          100%;
-  height:         200px;
+  height:         400px;
   float:          left;
-  background:     green;
   text-align:     center;
-  background-image: url("");
+  text-decoration-color: Green;
+  background-image: url("Imagething.jpg");
 }
 #navbar{
   width:          100%;
