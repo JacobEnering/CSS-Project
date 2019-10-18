@@ -1,3 +1,9 @@
+body{
+background-color: black;
+
+
+}
+
 #container{
     width:        1200px;
     margin:       auto;
@@ -7,31 +13,37 @@
   height:         400px;
   float:          left;
   text-align:     center;
-  text-decoration-color: Green;
+  text-decoration-color: #2A3BFF;
   background-image: url("Imagething.jpg");
+}
+#header h1{
+  color:        white;
+  text-align:center;
+  padding-top: 50px;
+  font-size:  100px;
 }
 #navbar{
   width:          100%;
   height:         40px;
-  background:     white;
+  background:     #841CFF;
   clear:          both;
 }
 #ad{
   float:          left;
-  width:          18%;
-  background:     green;
+  width:          12%;
+  background:     #401AE8;
   padding:        20px;
 }
 #content{
   float:          left;
-  width:          75%;
-  background:     orange;
+  width:          81.33%;
+  background:     #1CA6FF;
   padding:        20px;
 }
 #blueplace{
   clear:          both;
-  width:          97%;
-  background:     cyan;
+  width:          97.33%;
+  background:     #1A61E8;
   padding:        16px;
 }
 
