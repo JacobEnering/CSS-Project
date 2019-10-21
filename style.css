@@ -1,5 +1,5 @@
 body{
-background-color: black;
+background-color: rgb(14,14,14);
 
 
 }
@@ -23,26 +23,30 @@ background-color: black;
   font-size:  100px;
 }
 #navbar{
-  width:          100%;
+  border:         5px solid rgb(14,14,14);
+  width:          99%;
   height:         40px;
   background:     #841CFF;
   clear:          both;
 }
 #ad{
+  border:         5px solid rgb(14,14,14);
   float:          left;
-  width:          12%;
+  width:          11%;
   background:     #401AE8;
   padding:        20px;
 }
 #content{
+  border:         5px solid rgb(14,14,14);
   float:          left;
-  width:          81.33%;
+  width:          80.33%;
   background:     #1CA6FF;
   padding:        20px;
 }
 #blueplace{
+  border:         5px solid rgb(14,14,14);
   clear:          both;
-  width:          97.33%;
+  width:          96.33%;
   background:     #1A61E8;
   padding:        16px;
 }
