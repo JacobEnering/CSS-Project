@@ -1,9 +1,6 @@
 body{
 background-color: rgb(14,14,14);
-
-
 }
-
 #container{
     width:        1200px;
     margin:       auto;
@@ -61,7 +58,6 @@ background-color: rgb(14,14,14);
   background:     #1A61E8;
   padding:        16px;
 }
-
 ul{
   /* gets rid of circles */
   list-style-type:none;
@@ -71,12 +67,10 @@ ul{
   overflow: hidden;
   /* Color */
 }
-
 li{
   /* Horizontal menu */
   float:left;
 }
-
 li a{
   Display: block;
   color: #000000;
