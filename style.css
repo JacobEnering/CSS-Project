@@ -13,6 +13,9 @@ background-color: rgb(14,14,14);
   text-decoration-color: #2A3BFF;
   background-image: url("Imagething.jpg");
 }
+img{
+  float: right;
+}
 #header h1{
   color:        white;
   text-align:center;
