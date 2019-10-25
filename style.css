@@ -15,6 +15,8 @@ background-color: rgb(14,14,14);
 }
 img{
   float: right;
+  border-radius: 20px;
+  border: black;
 }
 #header h1{
   color:        white;
